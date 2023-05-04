@@ -3,4 +3,5 @@ out/*
 mnt/*
 target/*
 __pycache__/*
+mm-game.toml
 

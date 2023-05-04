@@ -1,0 +1,19 @@
+
+[[employee]]
+name = "Jack"
+prompt = """
+Jack smokes all the time at work, often nearby others trying to eat lunch.
+"""
+
+
+[[employee]]
+name = "Sally"
+prompt = """
+Sally tries to eat lunch in peace, but is always interrupted by Jack.
+"""
+
+# Make as many [[employee]] blocks with a "name" and "prompt" string
+# as you need for the game.
+
+
+
