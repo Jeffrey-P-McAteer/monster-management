@@ -1,0 +1,6 @@
+build/*
+out/*
+mnt/*
+target/*
+__pycache__/*
+
